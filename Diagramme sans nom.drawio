@@ -11,7 +11,7 @@
           <mxGeometry height="80" width="80" x="300" y="190" as="geometry" />
         </mxCell>
         <mxCell id="YnIh473IoNn6T0tY_dT4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="260" width="520" x="100" y="110" as="geometry" />
+          <mxGeometry height="280" width="520" x="100" y="110" as="geometry" />
         </mxCell>
         <mxCell id="m_VxKLqYJ_J2nMbql07p-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;BTS&lt;/font&gt;&lt;/b&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="140" as="geometry" />
@@ -73,7 +73,16 @@
         <mxCell id="m_VxKLqYJ_J2nMbql07p-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="école d&#39;architecture" vertex="1">
           <mxGeometry height="30" width="120" x="440" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="m_VxKLqYJ_J2nMbql07p-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lycée Frédéric" vertex="1">
+        <mxCell id="m_VxKLqYJ_J2nMbql07p-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lycée Frédéric OZANAM" vertex="1">
+          <mxGeometry height="30" width="100" x="110" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oX4AybSW2nvRa1OGRDRM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="60" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oX4AybSW2nvRa1OGRDRM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;(&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="60" x="80" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oX4AybSW2nvRa1OGRDRM-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="et" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="320" as="geometry" />
         </mxCell>
       </root>
