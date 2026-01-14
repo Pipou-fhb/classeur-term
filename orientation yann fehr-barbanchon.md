@@ -6,7 +6,7 @@
 ### fillière en architecture 
 - BTS - Production - Etude et réalisation d'agencement: 
   - [Lycée De L'Elorn (Landerneau - 29)](https://ecmorlaix-my.sharepoint.com/:w:/r/personal/yann_fehr-barbanchon_eleves_ecmorlaix_fr/Documents/orientation%20parcour%20sup.docx?d=w2e406ff911e64cb684b79d1015f045eb&csf=1&web=1&e=5p5fJA&nav=eyJoIjoiMTQwNDAyNjQ0NiJ9)
-  - [Lycée professionnel Eugene Freyssinet (Saint-Brieuc - 22)](https://ecmorlaix-my.sharepoint.com/:w:/r/personal/yann_fehr-barbanchon_eleves_ecmorlaix_fr/Documents/orientation%20parcour%20sup.docx?d=w2e406ff911e64cb684b79d1015f045eb&csf=1&web=1&e=ROdxua&nav=eyJoIjoiNzI0MzA1NzU2In0)
+  - [Lycée professionnel Eugene Freyssinet (Saint-Brieuc - 22)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=16108&typeBac=0&originePc=0)
   - [CFA BATIMENT DU MORBIHAN (Vannes - 56)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=49902&typeBac=0&originePc=0)
   - [Lycée Frédéric OZANAM (Cesson-Sévigné - 35)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=28266&typeBac=0&originePc=0)
 - BUT - Génie civil - Construction durable :
