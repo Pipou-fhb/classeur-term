@@ -14,10 +14,10 @@
 # Les parcours :
 [Graphique draw.io](https://github.com/Pipou-fhb/classeur-term/blob/main/parcours_graphique.png)
 # Les portes ouvertes :
-- Déja faites:
+- ##Déja faites:
   - B.U.T de Morlaix (2023)
   - Prépa PTSI la croix rouge Brest (2025)
-- Prévues:
+- ##Prévues:
   - B.U.T de Morlaix
   - BTS ERA de landivisiau
   - B.U.T de Rennes
