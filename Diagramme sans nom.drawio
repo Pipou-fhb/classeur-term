@@ -73,6 +73,9 @@
         <mxCell id="m_VxKLqYJ_J2nMbql07p-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="école d&#39;architecture" vertex="1">
           <mxGeometry height="30" width="120" x="440" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="m_VxKLqYJ_J2nMbql07p-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
