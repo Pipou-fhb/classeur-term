@@ -1,9 +1,7 @@
 # Orientation 2025/2026 terminal TG1
 #### prénom: Yann
 #### nom: fehr-barbanchon
-# Les fillières:
-### fillière en ingénieurie <br>
-### fillière en architecture 
+# Les écoles :
 - BTS - Production - Etude et réalisation d'agencement: 
   - [Lycée De L'Elorn (Landerneau - 29)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3783&typeBac=0&originePc=0)
   - [Lycée professionnel Eugene Freyssinet (Saint-Brieuc - 22)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=16108&typeBac=0&originePc=0)
@@ -13,4 +11,6 @@
    - [I.U.T de Brest - Site de Morlaix (Morlaix - 29) ](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3909&typeBac=0&originePc=0)
    - [I.U.T de rennes (rennes - 35)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=4661&typeBac=0&originePc=0)
    - [I.U.T de saint-nazaire (saint-nazaire - 44)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=5555&typeBac=0&originePc=0)
-(https://github.com/Pipou-fhb/classeur-term/commit/d3033bd3afa1486ef455a6906284aed37b38380d)
+# Les parcours :
+<br>
+[Graphique draw.io](parcours_graphique.png)
