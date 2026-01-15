@@ -31,10 +31,10 @@
     - Licence Génie Civil - BIM:
       -J8
       -L5
-    -BTS Etude et Réalisation d'agencement:
-      -L2 (Elorn landerneau)
+    - BTS Etude et Réalisation d'agencement:
+      - L2 (Elorn landerneau)
       -L5
-    -CPGE - PTSI:
+    - CPGE - PTSI:
       -i7 (la croix rouge Brest)
-    -Classe préparatoire - ATS:
+    - Classe préparatoire - ATS:
       -K13
