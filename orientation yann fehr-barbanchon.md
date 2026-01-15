@@ -28,8 +28,8 @@
   - Génie civil:
     - BUT Génie Civil:
       - L1 (morlaix)
-  -Licence Génie Civil - BIM:
-    -J8
+    - Licence Génie Civil - BIM:
+      J8
     -L5
   - BTS Etude et Réalisation d'agencement:
     -L2 (Elorn landerneau)
