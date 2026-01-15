@@ -5,7 +5,7 @@
 - [les écoles](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-%C3%A9coles-)
 - [Les parcours](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-parcours-)
 - [Les portes ouvertes](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-portes-ouvertes-)
-- [Azimut]
+- [Azimut](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#azimut)
 # Les écoles :
 - BTS - Production - Etude et réalisation d'agencement: 
   - [Lycée De L'Elorn (Landerneau - 29)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3783&typeBac=0&originePc=0)
