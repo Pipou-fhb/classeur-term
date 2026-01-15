@@ -27,7 +27,7 @@
   - Prépa PTSI la croix rouge Brest (2025)
 - Prévues:
   - B.U.T de Morlaix
-  - BTS ERA de landivisiau
+  - BTS ERA de landerneau
   - B.U.T de Rennes
 # Azimut:
   - Génie civil:
