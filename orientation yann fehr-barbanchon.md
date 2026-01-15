@@ -13,6 +13,7 @@
    - [I.U.T de saint-nazaire (saint-nazaire - 44)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=5555&typeBac=0&originePc=0)
 - CPGE - Prépa - PTSI:
   - [CPGE Vauban de Brest (Brest - 29](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3764&typeBac=0&originePc=0)
+  - [CPGE La croix rouge de Brest (Brest - 29)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3842&typeBac=0&originePc=0)
 # Les parcours :
 [Graphique draw.io](https://github.com/Pipou-fhb/classeur-term/blob/main/parcours_graphique.png)
 # Les portes ouvertes :
