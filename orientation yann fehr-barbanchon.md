@@ -24,4 +24,17 @@
   - B.U.T de Morlaix
   - BTS ERA de landivisiau
   - B.U.T de Rennes
-  
+- Azimut:
+  - Génie civil:
+    - BUT Génie Civil:
+      - L1 (morlaix)
+    - Licence Génie Civil - BIM:
+      -J8
+      -L5
+  - BTS Etude et Réalisation d'agencement:
+    -L2 (Elorn landerneau)
+    -L5
+  - CPGE - PTSI:
+    -i7 (la croix rouge Brest)
+  - Classe préparatoire - ATS:
+    -K13
