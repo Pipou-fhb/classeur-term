@@ -24,13 +24,13 @@
   - B.U.T de Morlaix
   - BTS ERA de landivisiau
   - B.U.T de Rennes
-- Azimut:
+#Azimut:
   - Génie civil:
     - BUT Génie Civil:
       - L1 (morlaix)
-    - Licence Génie Civil - BIM:
-      -J8
-      -L5
+  -Licence Génie Civil - BIM:
+    -J8
+    -L5
   - BTS Etude et Réalisation d'agencement:
     -L2 (Elorn landerneau)
     -L5
