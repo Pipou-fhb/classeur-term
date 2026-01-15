@@ -4,7 +4,7 @@
 # sommaire:
 - [les écoles](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-%C3%A9coles-)
 - [Les parcours](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-parcours-)
-- [Les portes ouvertes]
+- [Les portes ouvertes](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-portes-ouvertes-)
 - [Azimut]
 # Les écoles :
 - BTS - Production - Etude et réalisation d'agencement: 
