@@ -1,6 +1,8 @@
 # Orientation 2025/2026 terminal TG1
 #### prénom: Yann
 #### nom: fehr-barbanchon
+# sommaire:
+- [les écoles](https://github.com/Pipou-fhb/classeur-term/blob/main/orientation%20yann%20fehr-barbanchon.md#les-%C3%A9coles-)
 # Les écoles :
 - BTS - Production - Etude et réalisation d'agencement: 
   - [Lycée De L'Elorn (Landerneau - 29)](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=3783&typeBac=0&originePc=0)
