@@ -29,12 +29,12 @@
     - BUT Génie Civil:
       - L1 (morlaix)
     - Licence Génie Civil - BIM:
-      -J8
-      -L5
+      - J8
+      - L5
     - BTS Etude et Réalisation d'agencement:
       - L2 (Elorn landerneau)
-      -L5
+      - L5
     - CPGE - PTSI:
-      -i7 (la croix rouge Brest)
+      - i7 (la croix rouge Brest)
     - Classe préparatoire - ATS:
-      -K13
+      - K13
