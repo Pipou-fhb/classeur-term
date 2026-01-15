@@ -24,7 +24,7 @@
   - B.U.T de Morlaix
   - BTS ERA de landivisiau
   - B.U.T de Rennes
-#Azimut:
+# Azimut:
   - Génie civil:
     - BUT Génie Civil:
       - L1 (morlaix)
